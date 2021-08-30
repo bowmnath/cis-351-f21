@@ -95,9 +95,9 @@ The first edition should also be fine if you can find a copy.
 
 Deadline to drop with a "W" grade: October 29, 2021.
 
-Midterm Exam 1: TBD
+Midterm Exam 1: Thursday, October 7
 
-Midterm Exam 2: TBD
+Midterm Exam 2: Thursday, November 4
 
 Final Exam: Wednesday, December 15, 8 AM - 9:50 AM
 
