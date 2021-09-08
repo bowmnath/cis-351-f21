@@ -50,13 +50,13 @@ they can be a good replacement in an instance where you are feeling unwell.
 ## Course Objectives
 
 After successful completion of this course, students will be able to:
-* Construct simple combinatorial and sequential circuits.
-* Trace the execution of an instruction in a simple CPU.
-* Compare and contrast a pipelined CPU design with a single-cycle CPU design.
+* Create simple combinatorial and sequential circuits.
+* Predict the execution of an instruction in a simple CPU.
+* Compare a pipelined CPU design with a single-cycle CPU design.
 * Explain the benefits of the memory hierarchy.
-* Explain how a particular cache configuration determines whether a memory
+* Predict how a cache configuration determines whether a memory
   access is a hit or a miss.
-* Write code in an assembly language using standard programming constructs.
+* Produce code in an assembly language using standard programming constructs.
 
 ## Text
 
